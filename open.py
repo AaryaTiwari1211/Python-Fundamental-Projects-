@@ -1,0 +1,1 @@
+name_anime = open("open.txt", "r")

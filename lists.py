@@ -1,6 +1,13 @@
+
+
+# Making a list
 friends = ["Atharva","Eshan","Pratham","Dhairya","Aditya","Shrivatsa","Dev"]
 enemies = ["Mayank", "BTS" , "Sahil","Kinda"]
+
+# Replacing a particular object in a list 
 friends[2]="Pratherium"
+
+
 friends.append("Rahul")
 print(friends)
 friends.insert(3,"Jay")

@@ -57,6 +57,8 @@ while True:
     ans=input()
     if ans== 'no' or 'No':
         break
+    
+
     print("\nThanks for playing")
 
 

@@ -20,12 +20,13 @@ while count < math.log(upper_range - lower_range + 1, 2):
         print("Congrats you have too much time in your hands to be playing this game. Please leave immediately")
         break
     elif x > guess:
-        print("You have guessed wrong noob!!!! The number you chose is smaller than your pp")
+        print("You have guessed wrong noob!!!! The number you chose is smaller than the correct number")
     elif x < guess:
-        print("You guessed wrong noob!!! The number you chose is higher than that gay bitch you fcked last night")
+        print("You guessed wrong noob!!! The number you chose is higher than the correct number")
     
     if count >= math.log(upper_range- lower_range + 1, 2):
         print("\nThe number is %d" % x)
         print("Go to Hell Sucker ")
+        
  
    
